@@ -1,5 +1,5 @@
 language: bash
 script:
-	- echo gcd
+	- echo gcd.sh
 	- echo Travis CI test in .travis.yml
 	- echo ./gcd-test.sh
