@@ -1,5 +1,3 @@
 language: bash
 script:
-	- echo hello
-	- echo Travis CI test in .travis.yml
-	- sh ./gcd-test.sh
+	- ./gcd-test.sh
