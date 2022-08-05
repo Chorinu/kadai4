@@ -1,0 +1,8 @@
+gcd.sh
+2つの引数から最大公約数を求めるスクリプト
+
+gcd-test.sh
+gcd.shのテスト
+
+.travis.yml
+Travis CI用
